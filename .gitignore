@@ -54,7 +54,6 @@ openapi.json
 data/
 datasets/
 datasets_raw/
-models/
 checkpoints/
 runs/
 outputs/
